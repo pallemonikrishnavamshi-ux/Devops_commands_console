@@ -12,6 +12,14 @@ provide a unified interface for DevOps and system administration tasks.
 - Git repository
 - GitHub repository
 
+## Week 2 Features
+
+- Dynamic command input
+- Memory allocation using malloc()
+- Automatic buffer expansion using realloc()
+- Proper memory cleanup using free()
+- Modular input handling
+
 ## Build
 
 make
@@ -27,12 +35,3 @@ make run
 ## Future Features
 
 - Command parsing
-- Process management
-- File management
-- Backup and restore
-- System monitoring
-- IPC
-- Scheduling
-- Multithreading
-- Security validation
-- Audit logging
