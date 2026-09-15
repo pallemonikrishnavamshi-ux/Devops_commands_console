@@ -2,9 +2,10 @@ CC = gcc
 CFLAGS = -Wall -Wextra -g -Iinclude
 
 SRC = src/main.c \
-      src/input.c
+      src/input.c \
+      src/parser.c
 
-TARGET = bin/devshell
+TARGET = bin/shellforge
 
 all: $(TARGET)
 
